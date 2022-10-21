@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(107, 104, 104);
+}
+.container{
+    border-radius: 5px;
+    width: 50%;
+}
+.btn {
+    width: 20%;
+}
+label{
+    font-weight: bolder;
+    color: black;
+}
